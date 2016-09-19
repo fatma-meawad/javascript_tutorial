@@ -442,6 +442,25 @@
    {"name": "Neck_Pain", "size":1},
    {"name": "Sensitivity_To_Noise", "size":1}
      ]
+    },
+    {
+     "name": "cluster10",
+     "children": [
+       {"name": "Nasal_Congestion", "size":2},
+ {"name": "Depressed_Mood", "size":2},
+ {"name": "Anxiety", "size":2},
+ {"name": "Sensitivity_To_Smell", "size":2},
+ {"name": "Insomnia", "size":2},
+ {"name": "Neck_Pain", "size":2},
+ {"name": "Sensitivity_To_Noise", "size":2},
+ {"name": "Sensitivity_To_Light", "size":2},
+ {"name": "Angry/On_Edge", "size":1},
+ {"name": "Extreme_Hunger", "size":1},
+ {"name": "Jaw_Is_Tight", "size":1},
+ {"name": "Forehead_Tightness", "size":1},
+ {"name": "Vomiting", "size":1},
+ {"name": "Giddiness", "size":1}
+     ]
     }
   ]
 }
