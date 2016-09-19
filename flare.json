@@ -18,7 +18,6 @@
    {"name": "Insomnia", "size":61},
    {"name": "Giddiness", "size":52},
    {"name": "Vomiting", "size":42},
-   {"name": "None", "size":38},
    {"name": "Eye_Pain", "size":4},
    {"name": "Dizziness", "size":4},
    {"name": "Sweating", "size":3},
@@ -121,7 +120,6 @@
    {"name": "Dehydrated", "size":1},
    {"name": "Visual_Disturbance", "size":1},
    {"name": "Trouble_Speaking", "size":1}
-
      ]
     },
     {
@@ -137,7 +135,6 @@
    {"name": "Sensitivity_To_Noise", "size":11},
    {"name": "Nausea", "size":10},
    {"name": "Giddiness", "size":9},
-   {"name": "None", "size":5},
    {"name": "Dizziness", "size":4},
    {"name": "Watery_Eyes", "size":2},
    {"name": "Hot_Flashes", "size":2},
@@ -199,7 +196,7 @@
    {"name": "Urti", "size":1},
    {"name": "Back_Pain", "size":1},
    {"name": "Increased_Bowels", "size":1},
-   {"name": "Tinnitus", "size":1},
+   {"name": "Tinnitus", "size":1}
      ]
     }
     ,
@@ -279,7 +276,6 @@
        {"name": "Fuzzy_Brain", "size":1},
    {"name": "Tiredness", "size":1},
    {"name": "Blurred_Vision", "size":1},
-   {"name": "None", "size":1},
    {"name": "Nasal_Congestion", "size":1},
    {"name": "Dizziness", "size":1},
    {"name": "Depressed_Mood", "size":1},
@@ -297,7 +293,6 @@
  {"name": "Trigger_Point__Pain", "size":1},
  {"name": "Temple_Pain", "size":1},
  {"name": "Eye_Pain", "size":1},
- {"name": "None", "size":1},
  {"name": "Nasal_Congestion", "size":1},
  {"name": "Depressed_Mood", "size":1},
  {"name": "Anxiety", "size":1},
@@ -363,7 +358,6 @@
    {"name": "Nausea", "size":14},
    {"name": "Giddiness", "size":13},
    {"name": "Vomiting", "size":11},
-   {"name": "None", "size":9},
    {"name": "Pressure", "size":2},
    {"name": "Irritability", "size":2},
    {"name": "Irritation", "size":2},
@@ -371,7 +365,7 @@
    {"name": "Exhausted", "size":2},
    {"name": "Dizziness", "size":2},
    {"name": "Ear_Pressure", "size":1},
-   {"name": "Shingles_-_Face", "size":1},
+   {"name": "Shingles_Face", "size":1},
    {"name": "Cold_Feet", "size":1},
    {"name": "Cold_Hands", "size":1},
    {"name": "Involuntary_Spasms", "size":1},
