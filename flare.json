@@ -1,4 +1,4 @@
-[{"name":0,"children/0/name":0,"children/0/children/0/name":"Nausea","children/0/children/0/size":115},
+{"name": "flare","children":[{"name":0,"children/0/name":0,"children/0/children/0/name":"Nausea","children/0/children/0/size":115},
 {"name":1,"children/1/name":1,"children/1/children/0/name":"Sensitivity To Light","children/0/children/0/size":1},
 {"name":2,"children/2/name":2,"children/2/children/0/name":"Nausea","children/0/children/0/size":10},
 {"name":3,"children/3/name":3,"children/3/children/0/name":"Nausea","children/0/children/0/size":2},
@@ -7,4 +7,4 @@
 {"name":6,"children/6/name":6,"children/6/children/0/name":"Nausea","children/0/children/0/size":1},
 {"name":7,"children/7/name":7,"children/7/children/0/name":"Nausea","children/0/children/0/size":14},
 {"name":8,"children/8/name":8,"children/8/children/0/name":"Giddiness","children/0/children/0/size":1},
-{"name":9,"children/9/name":9,"children/9/children/0/name":"Nausea","children/0/children/0/size":1}]
+{"name":9,"children/9/name":9,"children/9/children/0/name":"Nausea","children/0/children/0/size":1}]}
