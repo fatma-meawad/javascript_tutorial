@@ -199,8 +199,7 @@
    {"name": "Irritation", "size":2},
    {"name": "Eye_Pain", "size":2},
    {"name": "Exhausted", "size":2},
-   {"name": "Dizziness", "size":2},
-
+   {"name": "Dizziness", "size":2}
      ]
     },
     {
