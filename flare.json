@@ -235,7 +235,7 @@
  {"name": "Insomnia", "size":2},
  {"name": "Neck_Pain", "size":2},
  {"name": "Sensitivity_To_Noise", "size":2},
- {"name": "Sensitivity_To_Light", "size":2},
+ {"name": "Sensitivity_To_Light", "size":2}
 
      ]
     }
