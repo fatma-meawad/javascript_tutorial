@@ -1,8 +1,7 @@
 {
   "graph": [],
   "links": [
-    {"source": 0, "target": 1},
-    {"source": 0, "target": 2}
+    {"source": 0, "target": 1}
     ],
   "nodes": [
     {"size": 60, "score": 0, "id": "Androsynth", "type": "circle"},
