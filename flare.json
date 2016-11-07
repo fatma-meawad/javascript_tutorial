@@ -1,25 +1,135 @@
 {
 "name": "Group1",
 "children": [
+{
+"name": "cluster1",
+"children": [
+{"name": "action", "size":129},
 
+{"name": "group", "size":173},
+
+{"name": "leader", "size":324},
+
+{"name": "adult", "size":139},
+
+{"name": "game", "size":305},
+
+{"name": "player", "size":197},
+
+{"name": "championship", "size":145},
+
+{"name": "fandom", "size":129},
+
+{"name": "season", "size":130},
+
+{"name": "goal", "size":108},
+
+{"name": "team", "size":144},
+
+{"name": "league", "size":122},
+
+{"name": "follower", "size":592},
+
+{"name": "book", "size":120},
+
+{"name": "video", "size":226},
+
+{"name": "spree", "size":160},
+
+{"name": "rebel", "size":358},
+
+{"name": "member", "size":149},
+
+{"name": "event", "size":152},
+
+{"name": "party", "size":112},
+
+{"name": "movie", "size":350},
+
+{"name": "terror", "size":137},
+
+{"name": "army", "size":112},
+
+{"name": "war", "size":165},
+
+{"name": "app", "size":142},
+
+{"name": "link", "size":121},
+
+{"name": "artist", "size":146},
+
+{"name": "award", "size":115},
+
+{"name": "song", "size":277},
+
+{"name": "album", "size":187},
+
+{"name": "music", "size":167},
+
+{"name": "world", "size":534},
+
+{"name": "attack", "size":178},
+
+{"name": "universe", "size":255},
+
+{"name": "nation", "size":110},
+
+{"name": "photo", "size":155},
+
+{"name": "episode", "size":119},
+
+{"name": "tour", "size":182},
+
+{"name": "charity", "size":125},
+
+{"name": "news", "size":106},
+
+{"name": "concert", "size":207},
+
+{"name": "toy", "size":115},
+
+{"name": "fans", "size":118}
+
+]
+},
 {
 "name": "cluster2",
 "children": [
 {"name": "soldier", "size":205},
 
-{"name": "bombing", "size":483},
+{"name": "explosion", "size":168},
 
 {"name": "dogs", "size":282},
 
 {"name": "animal", "size":330},
 
-{"name": "police", "size":270},
+{"name": "island", "size":102},
 
-{"name": "protester", "size":709},
+{"name": "bomb", "size":167},
 
-{"name": "rebel", "size":358},
+{"name": "water", "size":116},
 
 {"name": "mosque", "size":219},
+
+{"name": "car", "size":184},
+
+{"name": "road", "size":160},
+
+{"name": "town", "size":119},
+
+{"name": "county", "size":116},
+
+{"name": "city", "size":113},
+
+{"name": "house", "size":190},
+
+{"name": "earth", "size":244},
+
+{"name": "beach", "size":129},
+
+{"name": "dog", "size":135},
+
+{"name": "pet", "size":121},
 
 {"name": "kitten", "size":201}
 
@@ -28,9 +138,9 @@
 {
 "name": "cluster3",
 "children": [
-{"name": "prayer", "size":1185},
-
 {"name": "mind", "size":281},
+
+{"name": "thoughts", "size":197},
 
 {"name": "people", "size":3167},
 
@@ -42,6 +152,8 @@
 
 {"name": "word", "size":220},
 
+{"name": "dream", "size":119},
+
 {"name": "relationship", "size":612},
 
 {"name": "lord", "size":469},
@@ -50,17 +162,11 @@
 
 {"name": "family", "size":219},
 
-{"name": "student", "size":405},
-
 {"name": "children", "size":522},
 
 {"name": "death", "size":325},
 
-{"name": "religion", "size":447},
-
-{"name": "freedom", "size":208},
-
-{"name": "game", "size":305},
+{"name": "father", "size":198},
 
 {"name": "school", "size":551},
 
@@ -69,10 +175,6 @@
 {"name": "text", "size":212},
 
 {"name": "account", "size":276},
-
-{"name": "follower", "size":592},
-
-{"name": "video", "size":226},
 
 {"name": "message", "size":210},
 
@@ -84,11 +186,13 @@
 
 {"name": "daughter", "size":424},
 
-{"name": "crime", "size":381},
-
 {"name": "teacher", "size":363},
 
+{"name": "child", "size":173},
+
 {"name": "kids", "size":298},
+
+{"name": "mistake", "size":137},
 
 {"name": "basketball", "size":313},
 
@@ -98,9 +202,13 @@
 
 {"name": "hour", "size":234},
 
+{"name": "bed", "size":165},
+
 {"name": "weekend", "size":424},
 
-{"name": "movie", "size":350},
+{"name": "hair", "size":107},
+
+{"name": "eyes", "size":162},
 
 {"name": "day", "size":247},
 
@@ -112,6 +220,8 @@
 
 {"name": "heart", "size":563},
 
+{"name": "phone", "size":134},
+
 {"name": "sister", "size":392},
 
 {"name": "brother", "size":856},
@@ -120,52 +230,247 @@
 
 {"name": "girlfriend", "size":327},
 
+{"name": "uncle", "size":106},
+
 {"name": "mom", "size":339},
+
+{"name": "month", "size":103},
+
+{"name": "place", "size":138},
 
 {"name": "year", "size":360},
 
-{"name": "state", "size":295},
+{"name": "cause", "size":186},
+
+{"name": "days", "size":145},
+
+{"name": "amount", "size":109},
 
 {"name": "question", "size":301},
 
-{"name": "song", "size":277},
+{"name": "conversation", "size":117},
 
-{"name": "world", "size":534},
-
-{"name": "happiness", "size":303},
+{"name": "reason", "size":119},
 
 {"name": "peace", "size":344},
 
 {"name": "soul", "size":220},
 
-{"name": "universe", "size":255},
+{"name": "truth", "size":153},
 
-{"name": "earth", "size":244},
+{"name": "country", "size":133},
 
-{"name": "concert", "size":207}
+{"name": "problem", "size":122},
+
+{"name": "pictures", "size":108},
+
+{"name": "woman", "size":107},
+
+{"name": "class", "size":142},
+
+{"name": "college", "size":169},
+
+{"name": "classes", "size":114},
+
+{"name": "exam", "size":139},
+
+{"name": "moment", "size":145},
+
+{"name": "kid", "size":103}
 
 ]
 },
 {
 "name": "cluster4",
 "children": [
-{"name": "government", "size":819},
+{"name": "healing", "size":133},
 
-{"name": "leader", "size":324},
+{"name": "awareness", "size":151},
+
+{"name": "pain", "size":126},
+
+{"name": "lip", "size":102}
+
+]
+},
+{
+"name": "cluster5",
+"children": [
+{"name": "prayer", "size":1185},
+
+{"name": "blessings", "size":908},
+
+{"name": "tragedy", "size":169},
+
+{"name": "strength", "size":610},
+
+{"name": "faith", "size":664},
+
+{"name": "compassion", "size":205},
+
+{"name": "belief", "size":421},
+
+{"name": "religion", "size":447},
+
+{"name": "hatred", "size":112},
+
+{"name": "ignorance", "size":200},
+
+{"name": "philosophy", "size":107},
+
+{"name": "theology", "size":115},
+
+{"name": "morality", "size":135},
+
+{"name": "spirituality", "size":127},
+
+{"name": "lack", "size":122},
+
+{"name": "fear", "size":175},
+
+{"name": "happiness", "size":303},
+
+{"name": "failure", "size":116},
+
+{"name": "disappointment", "size":124},
+
+{"name": "anger", "size":107}
+
+]
+},
+{
+"name": "cluster6",
+"children": [
+{"name": "condolence", "size":168},
+
+{"name": "atheist", "size":449},
+
+{"name": "ethnicity", "size":107},
+
+{"name": "spur", "size":147},
+
+{"name": "protester", "size":709}
+
+]
+},
+{
+"name": "cluster8",
+"children": [
+{"name": "oil", "size":102}
+
+]
+},
+{
+"name": "cluster9",
+"children": [
+{"name": "organization", "size":157},
+
+{"name": "student", "size":405},
+
+{"name": "worker", "size":154},
+
+{"name": "veteran", "size":175},
+
+{"name": "culture", "size":167},
+
+{"name": "support", "size":176},
+
+{"name": "community", "size":132},
+
+{"name": "health", "size":236},
+
+{"name": "funding", "size":103},
+
+{"name": "email", "size":152},
+
+{"name": "web", "size":115},
+
+{"name": "website", "size":143},
+
+{"name": "service", "size":353},
+
+{"name": "donation", "size":169},
+
+{"name": "funds", "size":103},
+
+{"name": "article", "size":133},
+
+{"name": "security", "size":106},
+
+{"name": "research", "size":121},
+
+{"name": "business", "size":244},
+
+{"name": "job", "size":148},
+
+{"name": "education", "size":174},
+
+{"name": "university", "size":106},
+
+{"name": "report", "size":153},
+
+{"name": "development", "size":134},
+
+{"name": "healthcare", "size":102},
+
+{"name": "system", "size":124},
+
+{"name": "marketing", "size":159},
+
+{"name": "management", "size":101},
+
+{"name": "media", "size":103}
+
+]
+},
+{
+"name": "cluster10",
+"children": [
+{"name": "victim", "size":651},
+
+{"name": "government", "size":819},
 
 {"name": "refugee", "size":233},
 
 {"name": "troops", "size":293},
 
+{"name": "massacre", "size":145},
+
+{"name": "violence", "size":882},
+
+{"name": "bombing", "size":483},
+
 {"name": "democracy", "size":280},
+
+{"name": "equality", "size":117},
+
+{"name": "freedom", "size":208},
+
+{"name": "society", "size":155},
+
+{"name": "marriage", "size":141},
+
+{"name": "politics", "size":192},
 
 {"name": "constitution", "size":227},
 
 {"name": "republican", "size":456},
 
+{"name": "racism", "size":187},
+
 {"name": "law", "size":214},
 
-{"name": "health", "size":236},
+{"name": "minister", "size":148},
+
+{"name": "politician", "size":120},
+
+{"name": "crime", "size":381},
+
+{"name": "issue", "size":103},
+
+{"name": "police", "size":270},
+
+{"name": "fraud", "size":151},
 
 {"name": "corruption", "size":222},
 
@@ -173,48 +478,69 @@
 
 {"name": "assault", "size":233},
 
+{"name": "abuse", "size":125},
+
+{"name": "missile", "size":155},
+
 {"name": "protest", "size":965},
 
+{"name": "opposition", "size":114},
+
+{"name": "threat", "size":187},
+
 {"name": "drone", "size":278},
+
+{"name": "weapon", "size":239},
+
+{"name": "jihad", "size":125},
+
+{"name": "regime", "size":170},
+
+{"name": "journalist", "size":145},
 
 {"name": "activist", "size":399},
 
 {"name": "terrorism", "size":673},
 
-{"name": "service", "size":353},
+{"name": "state", "size":295},
 
 {"name": "election", "size":246},
 
-{"name": "reform", "size":211},
-
-{"name": "business", "size":244}
-
-]
-},
-{
-"name": "cluster5",
-"children": [
-{"name": "blessings", "size":908},
-
-{"name": "victim", "size":651},
-
-{"name": "strength", "size":610},
-
-{"name": "faith", "size":664},
-
-{"name": "violence", "size":882},
-
-{"name": "compassion", "size":205},
-
-{"name": "belief", "size":421},
-
-{"name": "atheist", "size":449},
-
-{"name": "weapon", "size":239},
+{"name": "voter", "size":118},
 
 {"name": "genocide", "size":350},
 
-{"name": "extremism", "size":215}
+{"name": "senate", "size":189},
+
+{"name": "president", "size":139},
+
+{"name": "immigration", "size":160},
+
+{"name": "reform", "size":211},
+
+{"name": "justice", "size":127},
+
+{"name": "campaign", "size":146},
+
+{"name": "embassy", "size":112},
+
+{"name": "capitalism", "size":115},
+
+{"name": "persecution", "size":122},
+
+{"name": "extremism", "size":215},
+
+{"name": "conspiracy", "size":115},
+
+{"name": "policy", "size":184},
+
+{"name": "suspect", "size":101},
+
+{"name": "tax", "size":172},
+
+{"name": "taxpayer", "size":111},
+
+{"name": "amendment", "size":106}
 
 ]
 }
