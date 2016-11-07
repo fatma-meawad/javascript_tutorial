@@ -24,7 +24,7 @@
 
         {"name": "genocide", "size":350},
 
-        {"name": "extremism", "size":215},
+        {"name": "extremism", "size":215}
 
       ]
     },
@@ -33,7 +33,7 @@
       "children": [
         {"name": "dogs", "size":282},
 
-        {"name": "kitten", "size":201},
+        {"name": "kitten", "size":201}
 
       ]
     },
@@ -152,7 +152,7 @@
 
         {"name": "earth", "size":244},
 
-        {"name": "concert", "size":207},
+        {"name": "concert", "size":207}
 
       ]
     },
@@ -213,7 +213,7 @@
 
         {"name": "reform", "size":211},
 
-        {"name": "business", "size":244},
+        {"name": "business", "size":244}
 
       ]
     }
