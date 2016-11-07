@@ -1,21 +1,221 @@
-
-  {
-   "name": "Group1",
-   "children": [
+{
+  "name": "Group1",
+  "children": [
     {
-     "name": "cluster1",
-     "children": [
-       {"name": "prayer", "size":1185},
- {"name": "blessings", "size":908},
- {"name": "tragedy", "size":169},
- {"name": "strength", "size":610},
- {"name": "condolence", "size":168},
- {"name": "emotion", "size":98},
- {"name": "wisdom", "size":67},
- {"name": "salvation", "size":28},
- {"name": "faith", "size":664},
- {"name": "psalm", "size":32}
-  ]
+      "name": "cluster1",
+      "children": [
+        {"name": "prayer", "size":1185},
+
+        {"name": "blessings", "size":908},
+
+        {"name": "strength", "size":610},
+
+        {"name": "faith", "size":664},
+
+        {"name": "compassion", "size":205},
+
+        {"name": "belief", "size":421},
+
+        {"name": "religion", "size":447},
+
+        {"name": "atheist", "size":449},
+
+        {"name": "weapon", "size":239},
+
+        {"name": "genocide", "size":350},
+
+        {"name": "extremism", "size":215},
+
+      ]
+    },
+    {
+      "name": "cluster2",
+      "children": [
+        {"name": "dogs", "size":282},
+
+        {"name": "kitten", "size":201},
+
+      ]
+    },
+    {
+      "name": "cluster3",
+      "children": [
+        {"name": "mind", "size":281},
+
+        {"name": "people", "size":3167},
+
+        {"name": "opinion", "size":340},
+
+        {"name": "life", "size":1001},
+
+        {"name": "situation", "size":236},
+
+        {"name": "word", "size":220},
+
+        {"name": "relationship", "size":612},
+
+        {"name": "lord", "size":469},
+
+        {"name": "parent", "size":386},
+
+        {"name": "family", "size":219},
+
+        {"name": "soldier", "size":205},
+
+        {"name": "children", "size":522},
+
+        {"name": "death", "size":325},
+
+        {"name": "animal", "size":330},
+
+        {"name": "freedom", "size":208},
+
+        {"name": "game", "size":305},
+
+        {"name": "school", "size":551},
+
+        {"name": "week", "size":217},
+
+        {"name": "text", "size":212},
+
+        {"name": "account", "size":276},
+
+        {"name": "follower", "size":592},
+
+        {"name": "video", "size":226},
+
+        {"name": "message", "size":210},
+
+        {"name": "friend", "size":797},
+
+        {"name": "person", "size":666},
+
+        {"name": "thanks", "size":517},
+
+        {"name": "daughter", "size":424},
+
+        {"name": "teacher", "size":363},
+
+        {"name": "kids", "size":298},
+
+        {"name": "rebel", "size":358},
+
+        {"name": "basketball", "size":313},
+
+        {"name": "morning", "size":1010},
+
+        {"name": "girl", "size":714},
+
+        {"name": "hour", "size":234},
+
+        {"name": "weekend", "size":424},
+
+        {"name": "movie", "size":350},
+
+        {"name": "day", "size":247},
+
+        {"name": "night", "size":206},
+
+        {"name": "hoe", "size":389},
+
+        {"name": "birthday", "size":391},
+
+        {"name": "heart", "size":563},
+
+        {"name": "sister", "size":392},
+
+        {"name": "brother", "size":856},
+
+        {"name": "nephew", "size":253},
+
+        {"name": "girlfriend", "size":327},
+
+        {"name": "mom", "size":339},
+
+        {"name": "year", "size":360},
+
+        {"name": "state", "size":295},
+
+        {"name": "question", "size":301},
+
+        {"name": "song", "size":277},
+
+        {"name": "world", "size":534},
+
+        {"name": "happiness", "size":303},
+
+        {"name": "peace", "size":344},
+
+        {"name": "soul", "size":220},
+
+        {"name": "universe", "size":255},
+
+        {"name": "earth", "size":244},
+
+        {"name": "concert", "size":207},
+
+      ]
+    },
+    {
+      "name": "cluster4",
+      "children": [
+        {"name": "victim", "size":651},
+
+        {"name": "government", "size":819},
+
+        {"name": "leader", "size":324},
+
+        {"name": "refugee", "size":233},
+
+        {"name": "student", "size":405},
+
+        {"name": "troops", "size":293},
+
+        {"name": "violence", "size":882},
+
+        {"name": "bombing", "size":483},
+
+        {"name": "democracy", "size":280},
+
+        {"name": "constitution", "size":227},
+
+        {"name": "republican", "size":456},
+
+        {"name": "law", "size":214},
+
+        {"name": "crime", "size":381},
+
+        {"name": "health", "size":236},
+
+        {"name": "police", "size":270},
+
+        {"name": "corruption", "size":222},
+
+        {"name": "trafficking", "size":202},
+
+        {"name": "assault", "size":233},
+
+        {"name": "protest", "size":965},
+
+        {"name": "protester", "size":709},
+
+        {"name": "drone", "size":278},
+
+        {"name": "activist", "size":399},
+
+        {"name": "terrorism", "size":673},
+
+        {"name": "mosque", "size":219},
+
+        {"name": "service", "size":353},
+
+        {"name": "election", "size":246},
+
+        {"name": "reform", "size":211},
+
+        {"name": "business", "size":244},
+
+      ]
     }
-    ]
+  ]
 }
