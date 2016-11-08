@@ -5,6 +5,153 @@
 {
 "name": "cluster1",
 "children": [
+{"name": "support", "size":304},
+
+{"name": "freedom", "size":134},
+
+{"name": "impact", "size":140},
+
+{"name": "commitment", "size":85},
+
+{"name": "leadership", "size":326},
+
+{"name": "value", "size":119},
+
+{"name": "difference", "size":76},
+
+{"name": "issues", "size":150},
+
+{"name": "progress", "size":95},
+
+{"name": "principles", "size":69},
+
+{"name": "purpose", "size":100},
+
+{"name": "despite", "size":52},
+
+{"name": "success", "size":56},
+
+{"name": "experience", "size":155},
+
+{"name": "speech", "size":60},
+
+{"name": "information", "size":100},
+
+{"name": "interests", "size":61},
+
+{"name": "faith", "size":70},
+
+{"name": "creativity", "size":60},
+
+{"name": "skills", "size":88}
+
+]
+},
+{
+"name": "cluster2",
+"children": [
+]
+},
+{
+"name": "cluster3",
+"children": [
+{"name": "democracy", "size":100},
+
+{"name": "policy", "size":2069},
+
+{"name": "gop", "size":80},
+
+{"name": "politics", "size":156},
+
+{"name": "govt", "size":221},
+
+{"name": "election", "size":85},
+
+{"name": "government", "size":1026},
+
+{"name": "immigration", "size":351},
+
+{"name": "reform", "size":107},
+
+{"name": "law", "size":150},
+
+{"name": "amendment", "size":97},
+
+{"name": "republicans", "size":143},
+
+{"name": "senate", "size":166},
+
+{"name": "rights", "size":403},
+
+{"name": "citizens", "size":264},
+
+{"name": "politicians", "size":181},
+
+{"name": "activists", "size":79},
+
+{"name": "minorities", "size":121},
+
+{"name": "accountability", "size":132},
+
+{"name": "leaders", "size":365},
+
+{"name": "campaign", "size":100},
+
+{"name": "reforms", "size":207},
+
+{"name": "administration", "size":233},
+
+{"name": "councils", "size":117},
+
+{"name": "unions", "size":58},
+
+{"name": "sequester", "size":119},
+
+{"name": "sequestration", "size":66},
+
+{"name": "oversight", "size":98},
+
+{"name": "irs", "size":125},
+
+{"name": "muslims", "size":51},
+
+{"name": "policies", "size":688},
+
+{"name": "laws", "size":138},
+
+{"name": "equality", "size":78},
+
+{"name": "democrats", "size":82},
+
+{"name": "legislation", "size":179},
+
+{"name": "conservatives", "size":100},
+
+{"name": "council", "size":119},
+
+{"name": "committee", "size":66},
+
+{"name": "constitution", "size":102},
+
+{"name": "regulations", "size":66},
+
+{"name": "bill", "size":52},
+
+{"name": "states", "size":59},
+
+{"name": "advocates", "size":76},
+
+{"name": "congressional", "size":57},
+
+{"name": "independence", "size":52},
+
+{"name": "lobbyists", "size":64}
+
+]
+},
+{
+"name": "cluster4",
+"children": [
 {"name": "while", "size":885},
 
 {"name": "people", "size":889},
@@ -77,8 +224,6 @@
 
 {"name": "future", "size":130},
 
-{"name": "difference", "size":76},
-
 {"name": "weeks", "size":92},
 
 {"name": "tonight", "size":181},
@@ -107,13 +252,9 @@
 
 {"name": "tmrw", "size":70},
 
-{"name": "teachers", "size":62},
-
-{"name": "street", "size":66},
-
 {"name": "town", "size":114},
 
-{"name": "purpose", "size":100},
+{"name": "job", "size":83},
 
 {"name": "answer", "size":119},
 
@@ -141,14 +282,12 @@
 
 {"name": "mom", "size":86},
 
-{"name": "dad", "size":64},
-
-{"name": "faith", "size":70}
+{"name": "dad", "size":64}
 
 ]
 },
 {
-"name": "cluster2",
+"name": "cluster5",
 "children": [
 {"name": "idiocy", "size":71},
 
@@ -156,64 +295,18 @@
 
 {"name": "ineptitude", "size":82},
 
-{"name": "rationale", "size":67}
+{"name": "rationale", "size":67},
+
+{"name": "impacts", "size":55}
 
 ]
 },
 {
-"name": "cluster3",
+"name": "cluster6",
 "children": [
-{"name": "democracy", "size":100},
-
-{"name": "policy", "size":2069},
-
-{"name": "gop", "size":80},
-
-{"name": "politics", "size":156},
-
-{"name": "govt", "size":221},
-
-{"name": "election", "size":85},
-
-{"name": "government", "size":1026},
-
-{"name": "immigration", "size":351},
-
-{"name": "reform", "size":107},
-
-{"name": "law", "size":150},
-
-{"name": "amendment", "size":97},
-
-{"name": "republicans", "size":143},
-
-{"name": "senate", "size":166},
-
-{"name": "education", "size":1174},
-
-{"name": "infrastructure", "size":283},
-
-{"name": "rights", "size":403},
-
-{"name": "environment", "size":138},
-
-{"name": "sustainability", "size":147},
-
-{"name": "providers", "size":218},
-
-{"name": "charities", "size":86},
-
-{"name": "organizations", "size":606},
+{"name": "offer", "size":236},
 
 {"name": "workers", "size":362},
-
-{"name": "employers", "size":225},
-
-{"name": "citizens", "size":264},
-
-{"name": "employees", "size":272},
-
-{"name": "claims", "size":205},
 
 {"name": "benefits", "size":736},
 
@@ -221,45 +314,11 @@
 
 {"name": "tax", "size":934},
 
-{"name": "healthcare", "size":138},
-
-{"name": "residents", "size":104},
-
-{"name": "patients", "size":81},
-
-{"name": "programs", "size":219},
-
-{"name": "communities", "size":353},
-
 {"name": "demand", "size":250},
-
-{"name": "health", "size":492},
-
-{"name": "politicians", "size":181},
-
-{"name": "advocacy", "size":66},
 
 {"name": "benefit", "size":330},
 
-{"name": "organization", "size":105},
-
-{"name": "workplace", "size":149},
-
-{"name": "activists", "size":79},
-
-{"name": "minorities", "size":121},
-
-{"name": "accountability", "size":132},
-
-{"name": "industry", "size":749},
-
 {"name": "funding", "size":977},
-
-{"name": "storms", "size":53},
-
-{"name": "floods", "size":66},
-
-{"name": "executive", "size":153},
 
 {"name": "investment", "size":549},
 
@@ -273,15 +332,9 @@
 
 {"name": "budget", "size":320},
 
-{"name": "companies", "size":1137},
-
-{"name": "businesses", "size":1080},
-
 {"name": "housing", "size":386},
 
 {"name": "cost", "size":243},
-
-{"name": "colleagues", "size":142},
 
 {"name": "employment", "size":218},
 
@@ -289,133 +342,27 @@
 
 {"name": "customers", "size":167},
 
-{"name": "leaders", "size":365},
-
-{"name": "campaign", "size":100},
-
-{"name": "reforms", "size":207},
-
-{"name": "administration", "size":233},
-
 {"name": "consumers", "size":200},
 
 {"name": "debt", "size":272},
 
-{"name": "councils", "size":117},
-
 {"name": "taxes", "size":226},
-
-{"name": "firms", "size":124},
-
-{"name": "volunteers", "size":105},
-
-{"name": "executives", "size":165},
-
-{"name": "officials", "size":223},
-
-{"name": "organisations", "size":141},
-
-{"name": "unions", "size":58},
 
 {"name": "payment", "size":162},
 
-{"name": "agencies", "size":123},
-
-{"name": "sequester", "size":119},
-
-{"name": "sequestration", "size":66},
+{"name": "credit", "size":166},
 
 {"name": "fees", "size":72},
 
-{"name": "scrutiny", "size":52},
-
-{"name": "oversight", "size":98},
-
-{"name": "irs", "size":125},
-
 {"name": "insurance", "size":371},
-
-{"name": "investigation", "size":131},
-
-{"name": "muslims", "size":51},
-
-{"name": "violence", "size":94},
-
-{"name": "threat", "size":221},
-
-{"name": "enforcement", "size":79},
-
-{"name": "security", "size":92},
-
-{"name": "policies", "size":688},
-
-{"name": "issues", "size":150},
 
 {"name": "pension", "size":61},
 
-{"name": "laws", "size":138},
-
-{"name": "equality", "size":78},
-
-{"name": "democrats", "size":82},
-
-{"name": "legislation", "size":179},
-
-{"name": "conservatives", "size":100},
-
-{"name": "departments", "size":91},
-
-{"name": "council", "size":119},
-
-{"name": "committee", "size":66},
-
 {"name": "increase", "size":62},
-
-{"name": "warnings", "size":51},
-
-{"name": "allegations", "size":74},
-
-{"name": "governance", "size":205},
-
-{"name": "schools", "size":69},
-
-{"name": "principles", "size":69},
-
-{"name": "initiative", "size":179},
-
-{"name": "orgs", "size":57},
-
-{"name": "offices", "size":123},
-
-{"name": "constitution", "size":102},
-
-{"name": "regulations", "size":66},
-
-{"name": "despite", "size":52},
 
 {"name": "mortgage", "size":110},
 
-{"name": "bill", "size":52},
-
-{"name": "states", "size":59},
-
 {"name": "payments", "size":97},
-
-{"name": "advocates", "size":76},
-
-{"name": "systems", "size":65},
-
-{"name": "congressional", "size":57},
-
-{"name": "independence", "size":52},
-
-{"name": "vendors", "size":70},
-
-{"name": "impacts", "size":55},
-
-{"name": "lobbyists", "size":64},
-
-{"name": "affairs", "size":58},
 
 {"name": "revenues", "size":64},
 
@@ -423,18 +370,12 @@
 
 {"name": "unemployment", "size":87},
 
-{"name": "department", "size":179},
-
-{"name": "interests", "size":61},
-
-{"name": "economic", "size":120},
-
-{"name": "diversity", "size":75}
+{"name": "economic", "size":120}
 
 ]
 },
 {
-"name": "cluster4",
+"name": "cluster7",
 "children": [
 {"name": "bread", "size":71},
 
@@ -449,15 +390,9 @@
 ]
 },
 {
-"name": "cluster5",
+"name": "cluster8",
 "children": [
-{"name": "offer", "size":236},
-
-{"name": "support", "size":304},
-
 {"name": "business", "size":1426},
-
-{"name": "freedom", "size":134},
 
 {"name": "company", "size":482},
 
@@ -465,55 +400,179 @@
 
 {"name": "management", "size":287},
 
+{"name": "education", "size":1174},
+
+{"name": "infrastructure", "size":283},
+
 {"name": "innovation", "size":157},
 
-{"name": "website", "size":170},
+{"name": "environment", "size":138},
+
+{"name": "sustainability", "size":147},
 
 {"name": "development", "size":1450},
+
+{"name": "providers", "size":218},
 
 {"name": "services", "size":420},
 
 {"name": "product", "size":72},
 
+{"name": "charities", "size":86},
+
+{"name": "organizations", "size":606},
+
+{"name": "employers", "size":225},
+
+{"name": "employees", "size":272},
+
 {"name": "research", "size":277},
 
-{"name": "impact", "size":140},
+{"name": "healthcare", "size":138},
+
+{"name": "patients", "size":81},
+
+{"name": "programs", "size":219},
+
+{"name": "communities", "size":353},
+
+{"name": "health", "size":492},
+
+{"name": "advocacy", "size":66},
+
+{"name": "organization", "size":105},
+
+{"name": "workplace", "size":149},
 
 {"name": "youth", "size":129},
 
-{"name": "commitment", "size":85},
-
-{"name": "updates", "size":78},
-
-{"name": "conference", "size":452},
-
 {"name": "community", "size":146},
 
-{"name": "office", "size":164},
+{"name": "industry", "size":749},
+
+{"name": "executive", "size":153},
+
+{"name": "companies", "size":1137},
+
+{"name": "businesses", "size":1080},
 
 {"name": "retail", "size":114},
 
 {"name": "engineering", "size":90},
 
-{"name": "report", "size":79},
-
-{"name": "library", "size":78},
-
-{"name": "coverage", "size":55},
+{"name": "colleagues", "size":142},
 
 {"name": "summit", "size":65},
 
-{"name": "leadership", "size":326},
-
 {"name": "strategy", "size":350},
 
-{"name": "value", "size":119},
-
 {"name": "technology", "size":323},
+
+{"name": "firms", "size":124},
+
+{"name": "volunteers", "size":105},
+
+{"name": "executives", "size":165},
 
 {"name": "resources", "size":372},
 
 {"name": "consulting", "size":76},
+
+{"name": "organisations", "size":141},
+
+{"name": "agencies", "size":123},
+
+{"name": "students", "size":231},
+
+{"name": "departments", "size":91},
+
+{"name": "governance", "size":205},
+
+{"name": "teachers", "size":62},
+
+{"name": "schools", "size":69},
+
+{"name": "initiative", "size":179},
+
+{"name": "orgs", "size":57},
+
+{"name": "offices", "size":123},
+
+{"name": "student", "size":81},
+
+{"name": "staff", "size":52},
+
+{"name": "systems", "size":65},
+
+{"name": "vendors", "size":70},
+
+{"name": "careers", "size":95},
+
+{"name": "affairs", "size":58},
+
+{"name": "department", "size":179},
+
+{"name": "production", "size":53},
+
+{"name": "diversity", "size":75},
+
+{"name": "activities", "size":110},
+
+{"name": "projects", "size":257},
+
+{"name": "faculty", "size":56},
+
+{"name": "assessment", "size":52}
+
+]
+},
+{
+"name": "cluster9",
+"children": [
+{"name": "claims", "size":205},
+
+{"name": "residents", "size":104},
+
+{"name": "storms", "size":53},
+
+{"name": "floods", "size":66},
+
+{"name": "report", "size":79},
+
+{"name": "officials", "size":223},
+
+{"name": "scrutiny", "size":52},
+
+{"name": "investigation", "size":131},
+
+{"name": "violence", "size":94},
+
+{"name": "threat", "size":221},
+
+{"name": "enforcement", "size":79},
+
+{"name": "security", "size":92},
+
+{"name": "warnings", "size":51},
+
+{"name": "allegations", "size":74}
+
+]
+},
+{
+"name": "cluster10",
+"children": [
+{"name": "website", "size":170},
+
+{"name": "updates", "size":78},
+
+{"name": "conference", "size":452},
+
+{"name": "office", "size":164},
+
+{"name": "library", "size":78},
+
+{"name": "coverage", "size":55},
 
 {"name": "details", "size":94},
 
@@ -521,55 +580,21 @@
 
 {"name": "interview", "size":133},
 
-{"name": "credit", "size":166},
-
 {"name": "article", "size":65},
 
 {"name": "post", "size":93},
-
-{"name": "progress", "size":95},
-
-{"name": "students", "size":231},
 
 {"name": "meeting", "size":207},
 
 {"name": "celebration", "size":115},
 
-{"name": "job", "size":83},
+{"name": "street", "size":66},
 
 {"name": "stories", "size":56},
 
-{"name": "success", "size":56},
-
-{"name": "experience", "size":155},
-
-{"name": "speech", "size":60},
-
-{"name": "student", "size":81},
-
-{"name": "staff", "size":52},
-
-{"name": "information", "size":100},
-
 {"name": "page", "size":70},
 
-{"name": "careers", "size":95},
-
-{"name": "production", "size":53},
-
-{"name": "search", "size":51},
-
-{"name": "creativity", "size":60},
-
-{"name": "activities", "size":110},
-
-{"name": "skills", "size":88},
-
-{"name": "projects", "size":257},
-
-{"name": "faculty", "size":56},
-
-{"name": "assessment", "size":52}
+{"name": "search", "size":51}
 
 ]
 }
