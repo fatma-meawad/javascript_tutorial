@@ -1,0 +1,1276 @@
+
+{
+"name": "Group1",
+"children": [
+{
+"name": "cluster1",
+"children": [
+{"name": "women", "size":3},
+
+{"name": "step", "size":3},
+
+{"name": "privacy", "size":2},
+
+{"name": "decide", "size":2},
+
+{"name": "errors", "size":2},
+
+{"name": "issue", "size":3},
+
+{"name": "Act", "size":18},
+
+{"name": "agree", "size":4},
+
+{"name": "Reminder", "size":2},
+
+{"name": "public", "size":3},
+
+{"name": "Problem", "size":2},
+
+{"name": "issues", "size":5},
+
+{"name": "science", "size":2},
+
+{"name": "potential", "size":2},
+
+{"name": "support", "size":11},
+
+{"name": "discussion", "size":2},
+
+{"name": "continues", "size":2},
+
+{"name": "control", "size":2},
+
+{"name": "Ways", "size":2},
+
+{"name": "Child", "size":2},
+
+{"name": "levels", "size":2},
+
+{"name": "lower", "size":2},
+
+{"name": "present", "size":2},
+
+{"name": "sexual", "size":2},
+
+{"name": "focused", "size":2},
+
+{"name": "power", "size":2},
+
+{"name": "hearing", "size":5},
+
+{"name": "action", "size":4},
+
+{"name": "speaking", "size":4},
+
+{"name": "questions", "size":4},
+
+{"name": "concerned", "size":2},
+
+{"name": "future", "size":6},
+
+{"name": "hunger", "size":2},
+
+{"name": "fighting", "size":2},
+
+{"name": "continue", "size":2},
+
+{"name": "strong", "size":2},
+
+{"name": "ways", "size":2},
+
+{"name": "address", "size":7},
+
+{"name": "decisions", "size":2},
+
+{"name": "others", "size":5},
+
+{"name": "allow", "size":4},
+
+{"name": "statement", "size":3},
+
+{"name": "improve", "size":2},
+
+{"name": "delay", "size":3},
+
+{"name": "deal", "size":3},
+
+{"name": "thoughts", "size":3},
+
+{"name": "Rate", "size":2},
+
+{"name": "Action", "size":2},
+
+{"name": "freedom", "size":2},
+
+{"name": "progress", "size":2},
+
+{"name": "effort", "size":2},
+
+{"name": "rules", "size":2},
+
+{"name": "change", "size":2},
+
+{"name": "discuss", "size":7},
+
+{"name": "loss", "size":3},
+
+{"name": "faith", "size":3},
+
+{"name": "problem", "size":4},
+
+{"name": "peace", "size":2},
+
+{"name": "reminder", "size":2},
+
+{"name": "Support", "size":2},
+
+{"name": "numbers", "size":2},
+
+{"name": "Prayer", "size":2},
+
+{"name": "clear", "size":2},
+
+{"name": "actions", "size":2},
+
+{"name": "example", "size":2},
+
+{"name": "skills", "size":2},
+
+{"name": "human", "size":2},
+
+{"name": "Force", "size":2},
+
+{"name": "opportunity", "size":2}
+
+]
+},
+{
+"name": "cluster2",
+"children": [
+{"name": "Broken", "size":3},
+
+{"name": "front", "size":2},
+
+{"name": "yrs", "size":5},
+
+{"name": "holding", "size":2},
+
+{"name": "wine", "size":2},
+
+{"name": "folks", "size":3},
+
+{"name": "showing", "size":2},
+
+{"name": "floor", "size":4},
+
+{"name": "Farm", "size":2},
+
+{"name": "mess", "size":2},
+
+{"name": "talked", "size":2},
+
+{"name": "spending", "size":3},
+
+{"name": "clean", "size":2},
+
+{"name": "bills", "size":3},
+
+{"name": "passed", "size":4},
+
+{"name": "fed", "size":2},
+
+{"name": "Floor", "size":2},
+
+{"name": "Black", "size":2},
+
+{"name": "running", "size":2},
+
+{"name": "Enjoyed", "size":4},
+
+{"name": "reached", "size":2},
+
+{"name": "tbt", "size":3},
+
+{"name": "Small", "size":2},
+
+{"name": "Headed", "size":2},
+
+{"name": "spoke", "size":2},
+
+{"name": "left", "size":2},
+
+{"name": "lunch", "size":3},
+
+{"name": "Standing", "size":2},
+
+{"name": "halls", "size":2},
+
+{"name": "Easter", "size":2},
+
+{"name": "farm", "size":2},
+
+{"name": "Rice", "size":2},
+
+{"name": "Kicking", "size":2},
+
+{"name": "keys", "size":2}
+
+]
+},
+{
+"name": "cluster3",
+"children": [
+{"name": "Rep.", "size":3},
+
+{"name": "Obamacare", "size":19},
+
+{"name": "bill", "size":18},
+
+{"name": "Senate", "size":21},
+
+{"name": "VAWA", "size":4},
+
+{"name": "law", "size":10},
+
+{"name": "Senator", "size":6},
+
+{"name": "Pres", "size":5},
+
+{"name": "Clinton", "size":2},
+
+{"name": "POTUS", "size":2},
+
+{"name": "Keystone", "size":6},
+
+{"name": "President", "size":14},
+
+{"name": "Congress", "size":15},
+
+{"name": "taxes", "size":6},
+
+{"name": "speech", "size":8},
+
+{"name": "Sen.", "size":7},
+
+{"name": "government", "size":5},
+
+{"name": "Climate", "size":2},
+
+{"name": "Medicaid", "size":5},
+
+{"name": "Bill", "size":4},
+
+{"name": "economy", "size":6},
+
+{"name": "independence", "size":3},
+
+{"name": "Obama", "size":24},
+
+{"name": "federal", "size":2},
+
+{"name": "Obamas", "size":3},
+
+{"name": "GOP", "size":6},
+
+{"name": "budget", "size":9},
+
+{"name": "Medicare", "size":7},
+
+{"name": "Americans", "size":10},
+
+{"name": "bipartisan", "size":6},
+
+{"name": "ICYMI", "size":9},
+
+{"name": "leaders", "size":3},
+
+{"name": "Hagel", "size":2},
+
+{"name": "irs", "size":10},
+
+{"name": "IRS", "size":17},
+
+{"name": "Chairman", "size":2},
+
+{"name": "justice", "size":2},
+
+{"name": "tax", "size":3},
+
+{"name": "govt", "size":3},
+
+{"name": "ObamaCare", "size":3},
+
+{"name": "shutdown", "size":4},
+
+{"name": "CIR", "size":3},
+
+{"name": "cir", "size":2},
+
+{"name": "tcot", "size":3},
+
+{"name": "Budget", "size":2},
+
+{"name": "Dems", "size":7},
+
+{"name": "Secretary", "size":5},
+
+{"name": "Presidents", "size":3},
+
+{"name": "Democrats", "size":2},
+
+{"name": "immigration", "size":5},
+
+{"name": "reform", "size":7},
+
+{"name": "TimeIsNow", "size":2},
+
+{"name": "Supreme", "size":4},
+
+{"name": "policy", "size":2},
+
+{"name": "Labor", "size":4},
+
+{"name": "Committee", "size":4},
+
+{"name": "Debt", "size":2},
+
+{"name": "rights", "size":3},
+
+{"name": "Fairness", "size":6},
+
+{"name": "Independence", "size":4},
+
+{"name": "equality", "size":2},
+
+{"name": "marriage", "size":2},
+
+{"name": "states", "size":5},
+
+{"name": "Law", "size":4},
+
+{"name": "Pipeline", "size":2},
+
+{"name": "Wage", "size":2},
+
+{"name": "democracy", "size":2},
+
+{"name": "Equality", "size":3},
+
+{"name": "voted", "size":6},
+
+{"name": "unemployment", "size":2},
+
+{"name": "sotu", "size":5},
+
+{"name": "SOTU", "size":7},
+
+{"name": "PJNET", "size":2},
+
+{"name": "pjnet", "size":2},
+
+{"name": "debt", "size":3},
+
+{"name": "CBO", "size":2},
+
+{"name": "Congressional", "size":3},
+
+{"name": "Marriage", "size":2},
+
+{"name": "Tax", "size":3},
+
+{"name": "nominee", "size":2},
+
+{"name": "wage", "size":3},
+
+{"name": "campaign", "size":2},
+
+{"name": "inequality", "size":2}
+
+]
+},
+{
+"name": "cluster4",
+"children": [
+{"name": "today", "size":33},
+
+{"name": "Please", "size":4},
+
+{"name": "show", "size":6},
+
+{"name": "school", "size":2},
+
+{"name": "story", "size":3},
+
+{"name": "Girls", "size":2},
+
+{"name": "help", "size":9},
+
+{"name": "keep", "size":6},
+
+{"name": "word", "size":2},
+
+{"name": "night", "size":3},
+
+{"name": "people", "size":11},
+
+{"name": "care", "size":7},
+
+{"name": "give", "size":4},
+
+{"name": "need", "size":7},
+
+{"name": "work", "size":14},
+
+{"name": "come", "size":2},
+
+{"name": "end", "size":2},
+
+{"name": "starting", "size":2},
+
+{"name": "must", "size":9},
+
+{"name": "House", "size":25},
+
+{"name": "week", "size":13},
+
+{"name": "look", "size":3},
+
+{"name": "great", "size":10},
+
+{"name": "time", "size":19},
+
+{"name": "Time", "size":5},
+
+{"name": "many", "size":3},
+
+{"name": "weather", "size":2},
+
+{"name": "READ", "size":2},
+
+{"name": "life", "size":3},
+
+{"name": "real", "size":2},
+
+{"name": "yesterday", "size":4},
+
+{"name": "sure", "size":2},
+
+{"name": "stop", "size":3},
+
+{"name": "looking", "size":2},
+
+{"name": "been", "size":7},
+
+{"name": "missed", "size":2},
+
+{"name": "tomorrow", "size":5},
+
+{"name": "want", "size":3},
+
+{"name": "other", "size":3},
+
+{"name": "such", "size":2},
+
+{"name": "Thanks", "size":20},
+
+{"name": "years", "size":5},
+
+{"name": "see", "size":6},
+
+{"name": "more", "size":4},
+
+{"name": "man", "size":2},
+
+{"name": "find", "size":4},
+
+{"name": "says", "size":2},
+
+{"name": "isnt", "size":2},
+
+{"name": "wants", "size":2},
+
+{"name": "Today", "size":9},
+
+{"name": "Hope", "size":2},
+
+{"name": "was", "size":12},
+
+{"name": "doesnt", "size":3},
+
+{"name": "Read", "size":4},
+
+{"name": "Dont", "size":4},
+
+{"name": "forget", "size":2},
+
+{"name": "Care", "size":6},
+
+{"name": "weekend", "size":4},
+
+{"name": "Was", "size":2},
+
+{"name": "thank", "size":2},
+
+{"name": "done", "size":2},
+
+{"name": "pass", "size":2},
+
+{"name": "kids", "size":4},
+
+{"name": "place", "size":4},
+
+{"name": "talk", "size":2},
+
+{"name": "hear", "size":2},
+
+{"name": "true", "size":2},
+
+{"name": "only", "size":3},
+
+{"name": "voice", "size":2},
+
+{"name": "world", "size":5},
+
+{"name": "family", "size":6},
+
+{"name": "morning", "size":7},
+
+{"name": "think", "size":4},
+
+{"name": "dont", "size":2},
+
+{"name": "know", "size":5},
+
+{"name": "Great", "size":11},
+
+{"name": "Welcome", "size":3},
+
+{"name": "Look", "size":2},
+
+{"name": "Month", "size":3},
+
+{"name": "Watch", "size":3},
+
+{"name": "answer", "size":2},
+
+{"name": "call", "size":3},
+
+{"name": "Looking", "size":2},
+
+{"name": "Help", "size":2},
+
+{"name": "tonight", "size":2},
+
+{"name": "came", "size":2},
+
+{"name": "year", "size":4},
+
+{"name": "lets", "size":3},
+
+{"name": "make", "size":7},
+
+{"name": "same", "size":2},
+
+{"name": "good", "size":3},
+
+{"name": "Check", "size":3},
+
+{"name": "said", "size":3},
+
+{"name": "working", "size":8},
+
+{"name": "able", "size":4},
+
+{"name": "pay", "size":3},
+
+{"name": "School", "size":2},
+
+{"name": "Yesterday", "size":3},
+
+{"name": "spend", "size":2},
+
+{"name": "last", "size":2},
+
+{"name": "friend", "size":3},
+
+{"name": "month", "size":2},
+
+{"name": "Means", "size":2},
+
+{"name": "Were", "size":2},
+
+{"name": "cant", "size":2},
+
+{"name": "Good", "size":5},
+
+{"name": "hope", "size":4},
+
+{"name": "use", "size":3},
+
+{"name": "glad", "size":2},
+
+{"name": "Day", "size":11},
+
+{"name": "Pass", "size":2},
+
+{"name": "welcome", "size":3},
+
+{"name": "Live", "size":2},
+
+{"name": "having", "size":4},
+
+{"name": "Find", "size":3},
+
+{"name": "proud", "size":4},
+
+{"name": "long", "size":2},
+
+{"name": "lost", "size":5},
+
+{"name": "class", "size":3},
+
+{"name": "believe", "size":2},
+
+{"name": "birthday", "size":3},
+
+{"name": "Happy", "size":6},
+
+{"name": "First", "size":3},
+
+{"name": "live", "size":2},
+
+{"name": "Family", "size":3},
+
+{"name": "luck", "size":3},
+
+{"name": "days", "size":4},
+
+{"name": "home", "size":2},
+
+{"name": "safe", "size":2},
+
+{"name": "day", "size":4},
+
+{"name": "taking", "size":3},
+
+{"name": "fight", "size":2},
+
+{"name": "asking", "size":2},
+
+{"name": "back", "size":2},
+
+{"name": "could", "size":2},
+
+{"name": "needs", "size":2},
+
+{"name": "way", "size":2},
+
+{"name": "fact", "size":2},
+
+{"name": "Calls", "size":2},
+
+{"name": "words", "size":2},
+
+{"name": "feel", "size":2},
+
+{"name": "food", "size":2}
+
+]
+},
+{
+"name": "cluster5",
+"children": [
+{"name": "op-ed", "size":2},
+
+{"name": "idp", "size":2},
+
+{"name": "otd", "size":2},
+
+{"name": "OTD", "size":2},
+
+{"name": "constituents", "size":2},
+
+{"name": "Solvers", "size":2},
+
+{"name": "Bergdahl", "size":2},
+
+{"name": "landmines", "size":2},
+
+{"name": "AFB", "size":2},
+
+{"name": "cot", "size":4},
+
+{"name": "Ebola", "size":2},
+
+{"name": "madei", "size":2},
+
+{"name": "nwi", "size":2},
+
+{"name": "Delco", "size":2},
+
+{"name": "Antioch", "size":2},
+
+{"name": "amdt", "size":2},
+
+{"name": "testifying", "size":3},
+
+{"name": "e-newsletter", "size":2},
+
+{"name": "mtg", "size":2},
+
+{"name": "Tucson", "size":3},
+
+{"name": "shalegas", "size":2},
+
+{"name": "mepolitics", "size":2},
+
+{"name": "Farmworkers", "size":2},
+
+{"name": "carbontax", "size":2},
+
+{"name": "ISIS", "size":2},
+
+{"name": "throwbackthursday", "size":2},
+
+{"name": "raisethewage", "size":2},
+
+{"name": "NAIAS", "size":2}
+
+]
+},
+{
+"name": "cluster6",
+"children": [
+{"name": "workers", "size":4},
+
+{"name": "families", "size":9},
+
+{"name": "abuse", "size":2},
+
+{"name": "Families", "size":3},
+
+{"name": "Flexibility", "size":2},
+
+{"name": "flexibility", "size":2},
+
+{"name": "affected", "size":3},
+
+{"name": "members", "size":3},
+
+{"name": "retirement", "size":2},
+
+{"name": "raising", "size":2},
+
+{"name": "millions", "size":3},
+
+{"name": "raise", "size":2},
+
+{"name": "prayers", "size":4},
+
+{"name": "storms", "size":2},
+
+{"name": "helping", "size":2},
+
+{"name": "students", "size":6},
+
+{"name": "Haiti", "size":2},
+
+{"name": "Vets", "size":2},
+
+{"name": "groups", "size":3},
+
+{"name": "residents", "size":2},
+
+{"name": "Veterans", "size":7},
+
+{"name": "veterans", "size":7},
+
+{"name": "seniors", "size":4},
+
+{"name": "nations", "size":3},
+
+{"name": "Honored", "size":3},
+
+{"name": "counties", "size":2},
+
+{"name": "introduced", "size":2},
+
+{"name": "efforts", "size":4},
+
+{"name": "flooding", "size":2},
+
+{"name": "volunteers", "size":2},
+
+{"name": "colleague", "size":2},
+
+{"name": "extend", "size":2},
+
+{"name": "critical", "size":2},
+
+{"name": "Renew", "size":2},
+
+{"name": "continuing", "size":2},
+
+{"name": "overdue", "size":2},
+
+{"name": "prevent", "size":2},
+
+{"name": "extending", "size":2},
+
+{"name": "Prevention", "size":2},
+
+{"name": "freedoms", "size":2},
+
+{"name": "STEM", "size":4},
+
+{"name": "stem", "size":3},
+
+{"name": "benefit", "size":2},
+
+{"name": "participating", "size":3}
+
+]
+},
+{
+"name": "cluster7",
+"children": [
+{"name": "join", "size":6},
+
+{"name": "State", "size":8},
+
+{"name": "open", "size":3},
+
+{"name": "joining", "size":2},
+
+{"name": "American", "size":10},
+
+{"name": "news", "size":4},
+
+{"name": "state", "size":2},
+
+{"name": "press", "size":4},
+
+{"name": "Street", "size":3},
+
+{"name": "News", "size":2},
+
+{"name": "Korea", "size":3},
+
+{"name": "Hill", "size":3},
+
+{"name": "Arizona", "size":3},
+
+{"name": "deadline", "size":3},
+
+{"name": "Joining", "size":3},
+
+{"name": "signing", "size":2},
+
+{"name": "Boston", "size":4},
+
+{"name": "County", "size":6},
+
+{"name": "Art", "size":3},
+
+{"name": "Competition", "size":3},
+
+{"name": "Capitol", "size":4},
+
+{"name": "cast", "size":2},
+
+{"name": "visit", "size":5},
+
+{"name": "Park", "size":3},
+
+{"name": "event", "size":2},
+
+{"name": "Americas", "size":2},
+
+{"name": "Award", "size":3},
+
+{"name": "City", "size":3},
+
+{"name": "interview", "size":2},
+
+{"name": "meeting", "size":5},
+
+{"name": "St.", "size":2},
+
+{"name": "Center", "size":3},
+
+{"name": "Bowl", "size":2},
+
+{"name": "Town", "size":3},
+
+{"name": "Hall", "size":3},
+
+{"name": "District", "size":3},
+
+{"name": "Tues", "size":2},
+
+{"name": "town", "size":6},
+
+{"name": "hall", "size":3},
+
+{"name": "Congratulations", "size":3},
+
+{"name": "visiting", "size":2},
+
+{"name": "history", "size":3},
+
+{"name": "country", "size":5},
+
+{"name": "ceremony", "size":4},
+
+{"name": "TUNE", "size":2},
+
+{"name": "History", "size":2},
+
+{"name": "Nevada", "size":3},
+
+{"name": "picnic", "size":2},
+
+{"name": "Memorial", "size":4},
+
+{"name": "Golden", "size":2},
+
+{"name": "Washington", "size":2},
+
+{"name": "National", "size":5},
+
+{"name": "district", "size":2},
+
+{"name": "guest", "size":2},
+
+{"name": "restaurant", "size":2},
+
+{"name": "Tune", "size":3},
+
+{"name": "Classic", "size":2},
+
+{"name": "Join", "size":3},
+
+{"name": "march", "size":2},
+
+{"name": "conference", "size":3},
+
+{"name": "Fair", "size":3},
+
+{"name": "attend", "size":2},
+
+{"name": "North", "size":2},
+
+{"name": "series", "size":2},
+
+{"name": "joined", "size":3},
+
+{"name": "top", "size":2},
+
+{"name": "Open", "size":2},
+
+{"name": "Miami", "size":2},
+
+{"name": "local", "size":2},
+
+{"name": "winners", "size":2},
+
+{"name": "America", "size":3},
+
+{"name": "announcement", "size":2},
+
+{"name": "Valley", "size":3},
+
+{"name": "leading", "size":2},
+
+{"name": "field", "size":2},
+
+{"name": "opening", "size":2},
+
+{"name": "nation", "size":4},
+
+{"name": "campus", "size":2},
+
+{"name": "events", "size":2},
+
+{"name": "Summit", "size":2}
+
+]
+},
+{
+"name": "cluster8",
+"children": [
+{"name": "service", "size":5},
+
+{"name": "innovation", "size":2},
+
+{"name": "quality", "size":2},
+
+{"name": "jobs", "size":21},
+
+{"name": "health", "size":11},
+
+{"name": "econ", "size":2},
+
+{"name": "education", "size":4},
+
+{"name": "office", "size":4},
+
+{"name": "funding", "size":3},
+
+{"name": "energy", "size":5},
+
+{"name": "expansion", "size":2},
+
+{"name": "Job", "size":4},
+
+{"name": "leadership", "size":4},
+
+{"name": "businesses", "size":4},
+
+{"name": "investment", "size":2},
+
+{"name": "research", "size":4},
+
+{"name": "strategy", "size":2},
+
+{"name": "report", "size":3},
+
+{"name": "Innovation", "size":2},
+
+{"name": "system", "size":5},
+
+{"name": "agencies", "size":3},
+
+{"name": "Office", "size":3},
+
+{"name": "insurance", "size":4},
+
+{"name": "safety", "size":2},
+
+{"name": "income", "size":4},
+
+{"name": "job", "size":5},
+
+{"name": "training", "size":5},
+
+{"name": "staff", "size":2},
+
+{"name": "Oil", "size":3},
+
+{"name": "loans", "size":2},
+
+{"name": "employees", "size":3},
+
+{"name": "program", "size":5},
+
+{"name": "Fund", "size":2},
+
+{"name": "business", "size":2},
+
+{"name": "student", "size":4},
+
+{"name": "workforce", "size":2},
+
+{"name": "development", "size":2},
+
+{"name": "rates", "size":3},
+
+{"name": "access", "size":4},
+
+{"name": "investments", "size":2},
+
+{"name": "manufacturing", "size":2},
+
+{"name": "Energy", "size":3},
+
+{"name": "Jobs", "size":2},
+
+{"name": "facility", "size":3},
+
+{"name": "benefits", "size":2},
+
+{"name": "Enrollment", "size":2},
+
+{"name": "credit", "size":2},
+
+{"name": "biz", "size":2},
+
+{"name": "loan", "size":3},
+
+{"name": "Tech", "size":2},
+
+{"name": "schools", "size":4},
+
+{"name": "trade", "size":2},
+
+{"name": "Health", "size":3},
+
+{"name": "Dept", "size":2},
+
+{"name": "community", "size":2},
+
+{"name": "solution", "size":4},
+
+{"name": "cost", "size":2},
+
+{"name": "transit", "size":2},
+
+{"name": "opportunities", "size":2},
+
+{"name": "Aviation", "size":2}
+
+]
+},
+{
+"name": "cluster9",
+"children": [
+{"name": "police", "size":3},
+
+{"name": "delegation", "size":2},
+
+{"name": "Jerusalem", "size":3},
+
+{"name": "Israel", "size":2},
+
+{"name": "defense", "size":3},
+
+{"name": "Syria", "size":4},
+
+{"name": "Benghazi", "size":7},
+
+{"name": "investigation", "size":2},
+
+{"name": "gun", "size":3},
+
+{"name": "assault", "size":3},
+
+{"name": "troops", "size":3},
+
+{"name": "Bahrain", "size":2},
+
+{"name": "Kerry", "size":4},
+
+{"name": "military", "size":4},
+
+{"name": "Leader", "size":2},
+
+{"name": "crisis", "size":4},
+
+{"name": "shootings", "size":2},
+
+{"name": "War", "size":3},
+
+{"name": "leader", "size":2},
+
+{"name": "violence", "size":3},
+
+{"name": "Security", "size":3},
+
+{"name": "syria", "size":2},
+
+{"name": "Army", "size":3},
+
+{"name": "Court", "size":6},
+
+{"name": "Navy", "size":2},
+
+{"name": "security", "size":5},
+
+{"name": "Iran", "size":4},
+
+{"name": "officers", "size":2},
+
+{"name": "citizen", "size":2},
+
+{"name": "former", "size":2},
+
+{"name": "nsa", "size":2},
+
+{"name": "combat", "size":2},
+
+{"name": "Chief", "size":2},
+
+{"name": "scandal", "size":3},
+
+{"name": "Police", "size":2},
+
+{"name": "reports", "size":2},
+
+{"name": "NSA", "size":3},
+
+{"name": "Ukraine", "size":2}
+
+]
+},
+{
+"name": "cluster10",
+"children": [
+{"name": "VIDEO", "size":4},
+
+{"name": "vote", "size":9},
+
+{"name": "info", "size":4},
+
+{"name": "cover", "size":2},
+
+{"name": "photo", "size":3},
+
+{"name": "Facebook", "size":2},
+
+{"name": "pol", "size":4},
+
+{"name": "min", "size":2},
+
+{"name": "video", "size":4},
+
+{"name": "Video", "size":2},
+
+{"name": "Venezuela", "size":4},
+
+{"name": "plan", "size":7},
+
+{"name": "Dr.", "size":2},
+
+{"name": "Sgt", "size":2},
+
+{"name": "limit", "size":2},
+
+{"name": "background", "size":2},
+
+{"name": "ACA", "size":5},
+
+{"name": "honor", "size":6},
+
+{"name": "block", "size":2},
+
+{"name": "status", "size":2},
+
+{"name": "las", "size":2},
+
+{"name": "USA", "size":4},
+
+{"name": "Admin", "size":3},
+
+{"name": "Isaac", "size":2},
+
+{"name": "version", "size":2},
+
+{"name": "Post", "size":2},
+
+{"name": "link", "size":3},
+
+{"name": "Thx", "size":2},
+
+{"name": "CTE", "size":2},
+
+{"name": "post", "size":2},
+
+{"name": "Karen", "size":2},
+
+{"name": "Mayor", "size":2}
+
+]
+}
+]
+}
