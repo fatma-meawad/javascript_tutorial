@@ -5,364 +5,571 @@
 {
 "name": "cluster1",
 "children": [
-{"name": "prayer", "size":1028},
+{"name": "while", "size":885},
 
-{"name": "blessings", "size":763},
+{"name": "people", "size":889},
 
-{"name": "mind", "size":168},
+{"name": "work", "size":1497},
 
-{"name": "thoughts", "size":105},
+{"name": "ones", "size":815},
 
-{"name": "strength", "size":438},
+{"name": "fight", "size":93},
 
-{"name": "people", "size":2608},
+{"name": "way", "size":1173},
 
-{"name": "faith", "size":333},
+{"name": "thing", "size":619},
 
-{"name": "opinion", "size":256},
+{"name": "stuff", "size":360},
 
-{"name": "religion", "size":364},
+{"name": "life", "size":437},
 
-{"name": "word", "size":120},
+{"name": "guys", "size":178},
 
-{"name": "life", "size":635},
+{"name": "everyone", "size":278},
 
-{"name": "heart", "size":326},
+{"name": "picture", "size":57},
 
-{"name": "happiness", "size":80},
+{"name": "afternoon", "size":51},
 
-{"name": "freedom", "size":57},
+{"name": "evening", "size":108},
 
-{"name": "lord", "size":245},
+{"name": "today", "size":1445},
 
-{"name": "world", "size":298},
+{"name": "night", "size":93},
 
-{"name": "mistake", "size":53},
+{"name": "years", "size":114},
 
-{"name": "failure", "size":60},
+{"name": "yesterday", "size":583},
 
-{"name": "person", "size":297},
+{"name": "kids", "size":93},
 
-{"name": "peace", "size":175},
+{"name": "anyone", "size":477},
 
-{"name": "reason", "size":64},
+{"name": "tomorrow", "size":552},
 
-{"name": "difference", "size":59},
+{"name": "year", "size":880},
 
-{"name": "question", "size":184},
+{"name": "children", "size":111},
 
-{"name": "relationship", "size":327},
+{"name": "matter", "size":620},
 
-{"name": "father", "size":175},
+{"name": "days", "size":336},
 
-{"name": "moment", "size":95},
+{"name": "reason", "size":812},
 
-{"name": "situation", "size":86},
+{"name": "hours", "size":164},
 
-{"name": "fear", "size":69},
+{"name": "week", "size":454},
 
-{"name": "universe", "size":120},
+{"name": "head", "size":95},
 
-{"name": "earth", "size":102},
+{"name": "room", "size":99},
 
-{"name": "parent", "size":229},
+{"name": "front", "size":116},
 
-{"name": "problem", "size":53}
+{"name": "change", "size":117},
+
+{"name": "house", "size":162},
+
+{"name": "ppl", "size":118},
+
+{"name": "folks", "size":111},
+
+{"name": "future", "size":130},
+
+{"name": "difference", "size":76},
+
+{"name": "weeks", "size":92},
+
+{"name": "tonight", "size":181},
+
+{"name": "deal", "size":91},
+
+{"name": "side", "size":59},
+
+{"name": "class", "size":124},
+
+{"name": "day", "size":323},
+
+{"name": "things", "size":67},
+
+{"name": "friends", "size":62},
+
+{"name": "world", "size":56},
+
+{"name": "cause", "size":84},
+
+{"name": "month", "size":64},
+
+{"name": "bday", "size":54},
+
+{"name": "time", "size":89},
+
+{"name": "tmrw", "size":70},
+
+{"name": "teachers", "size":62},
+
+{"name": "street", "size":66},
+
+{"name": "town", "size":114},
+
+{"name": "purpose", "size":100},
+
+{"name": "answer", "size":119},
+
+{"name": "story", "size":52},
+
+{"name": "weekend", "size":144},
+
+{"name": "great", "size":102},
+
+{"name": "course", "size":241},
+
+{"name": "fun", "size":127},
+
+{"name": "family", "size":118},
+
+{"name": "anything", "size":95},
+
+{"name": "place", "size":65},
+
+{"name": "months", "size":84},
+
+{"name": "end", "size":158},
+
+{"name": "daughter", "size":52},
+
+{"name": "mom", "size":86},
+
+{"name": "dad", "size":64},
+
+{"name": "faith", "size":70}
 
 ]
 },
 {
 "name": "cluster2",
 "children": [
-{"name": "eyes", "size":60}
+{"name": "idiocy", "size":71},
+
+{"name": "contributors", "size":55},
+
+{"name": "ineptitude", "size":82},
+
+{"name": "rationale", "size":67}
 
 ]
 },
 {
 "name": "cluster3",
 "children": [
-{"name": "republican", "size":365},
+{"name": "democracy", "size":100},
 
-{"name": "government", "size":509},
+{"name": "policy", "size":2069},
 
-{"name": "troops", "size":92},
+{"name": "gop", "size":80},
 
-{"name": "drone", "size":111},
+{"name": "politics", "size":156},
 
-{"name": "war", "size":87},
+{"name": "govt", "size":221},
 
-{"name": "election", "size":184},
+{"name": "election", "size":85},
 
-{"name": "reform", "size":113},
+{"name": "government", "size":1026},
 
-{"name": "terrorism", "size":383},
+{"name": "immigration", "size":351},
 
-{"name": "state", "size":183},
+{"name": "reform", "size":107},
 
-{"name": "leader", "size":240},
+{"name": "law", "size":150},
 
-{"name": "refugee", "size":180},
+{"name": "amendment", "size":97},
 
-{"name": "activist", "size":222},
+{"name": "republicans", "size":143},
 
-{"name": "protest", "size":774},
+{"name": "senate", "size":166},
 
-{"name": "taxpayer", "size":81},
+{"name": "education", "size":1174},
 
-{"name": "tax", "size":84},
+{"name": "infrastructure", "size":283},
 
-{"name": "genocide", "size":147},
+{"name": "rights", "size":403},
 
-{"name": "senate", "size":105},
+{"name": "environment", "size":138},
 
-{"name": "minister", "size":69},
+{"name": "sustainability", "size":147},
 
-{"name": "fraud", "size":73},
+{"name": "providers", "size":218},
 
-{"name": "law", "size":75},
+{"name": "charities", "size":86},
 
-{"name": "conspiracy", "size":58},
+{"name": "organizations", "size":606},
 
-{"name": "democracy", "size":63},
+{"name": "workers", "size":362},
 
-{"name": "amendment", "size":56},
+{"name": "employers", "size":225},
 
-{"name": "capitalism", "size":72}
+{"name": "citizens", "size":264},
+
+{"name": "employees", "size":272},
+
+{"name": "claims", "size":205},
+
+{"name": "benefits", "size":736},
+
+{"name": "costs", "size":467},
+
+{"name": "tax", "size":934},
+
+{"name": "healthcare", "size":138},
+
+{"name": "residents", "size":104},
+
+{"name": "patients", "size":81},
+
+{"name": "programs", "size":219},
+
+{"name": "communities", "size":353},
+
+{"name": "demand", "size":250},
+
+{"name": "health", "size":492},
+
+{"name": "politicians", "size":181},
+
+{"name": "advocacy", "size":66},
+
+{"name": "benefit", "size":330},
+
+{"name": "organization", "size":105},
+
+{"name": "workplace", "size":149},
+
+{"name": "activists", "size":79},
+
+{"name": "minorities", "size":121},
+
+{"name": "accountability", "size":132},
+
+{"name": "industry", "size":749},
+
+{"name": "funding", "size":977},
+
+{"name": "storms", "size":53},
+
+{"name": "floods", "size":66},
+
+{"name": "executive", "size":153},
+
+{"name": "investment", "size":549},
+
+{"name": "growth", "size":247},
+
+{"name": "economy", "size":172},
+
+{"name": "inequality", "size":82},
+
+{"name": "cuts", "size":194},
+
+{"name": "budget", "size":320},
+
+{"name": "companies", "size":1137},
+
+{"name": "businesses", "size":1080},
+
+{"name": "housing", "size":386},
+
+{"name": "cost", "size":243},
+
+{"name": "colleagues", "size":142},
+
+{"name": "employment", "size":218},
+
+{"name": "funds", "size":338},
+
+{"name": "customers", "size":167},
+
+{"name": "leaders", "size":365},
+
+{"name": "campaign", "size":100},
+
+{"name": "reforms", "size":207},
+
+{"name": "administration", "size":233},
+
+{"name": "consumers", "size":200},
+
+{"name": "debt", "size":272},
+
+{"name": "councils", "size":117},
+
+{"name": "taxes", "size":226},
+
+{"name": "firms", "size":124},
+
+{"name": "volunteers", "size":105},
+
+{"name": "executives", "size":165},
+
+{"name": "officials", "size":223},
+
+{"name": "organisations", "size":141},
+
+{"name": "unions", "size":58},
+
+{"name": "payment", "size":162},
+
+{"name": "agencies", "size":123},
+
+{"name": "sequester", "size":119},
+
+{"name": "sequestration", "size":66},
+
+{"name": "fees", "size":72},
+
+{"name": "scrutiny", "size":52},
+
+{"name": "oversight", "size":98},
+
+{"name": "irs", "size":125},
+
+{"name": "insurance", "size":371},
+
+{"name": "investigation", "size":131},
+
+{"name": "muslims", "size":51},
+
+{"name": "violence", "size":94},
+
+{"name": "threat", "size":221},
+
+{"name": "enforcement", "size":79},
+
+{"name": "security", "size":92},
+
+{"name": "policies", "size":688},
+
+{"name": "issues", "size":150},
+
+{"name": "pension", "size":61},
+
+{"name": "laws", "size":138},
+
+{"name": "equality", "size":78},
+
+{"name": "democrats", "size":82},
+
+{"name": "legislation", "size":179},
+
+{"name": "conservatives", "size":100},
+
+{"name": "departments", "size":91},
+
+{"name": "council", "size":119},
+
+{"name": "committee", "size":66},
+
+{"name": "increase", "size":62},
+
+{"name": "warnings", "size":51},
+
+{"name": "allegations", "size":74},
+
+{"name": "governance", "size":205},
+
+{"name": "schools", "size":69},
+
+{"name": "principles", "size":69},
+
+{"name": "initiative", "size":179},
+
+{"name": "orgs", "size":57},
+
+{"name": "offices", "size":123},
+
+{"name": "constitution", "size":102},
+
+{"name": "regulations", "size":66},
+
+{"name": "despite", "size":52},
+
+{"name": "mortgage", "size":110},
+
+{"name": "bill", "size":52},
+
+{"name": "states", "size":59},
+
+{"name": "payments", "size":97},
+
+{"name": "advocates", "size":76},
+
+{"name": "systems", "size":65},
+
+{"name": "congressional", "size":57},
+
+{"name": "independence", "size":52},
+
+{"name": "vendors", "size":70},
+
+{"name": "impacts", "size":55},
+
+{"name": "lobbyists", "size":64},
+
+{"name": "affairs", "size":58},
+
+{"name": "revenues", "size":64},
+
+{"name": "profits", "size":103},
+
+{"name": "unemployment", "size":87},
+
+{"name": "department", "size":179},
+
+{"name": "interests", "size":61},
+
+{"name": "economic", "size":120},
+
+{"name": "diversity", "size":75}
 
 ]
 },
 {
 "name": "cluster4",
 "children": [
-{"name": "text", "size":96},
+{"name": "bread", "size":71},
 
-{"name": "book", "size":68},
+{"name": "coconut", "size":80},
 
-{"name": "basketball", "size":296},
+{"name": "garlic", "size":57},
 
-{"name": "morning", "size":973},
+{"name": "soup", "size":52},
 
-{"name": "hour", "size":153},
-
-{"name": "school", "size":361},
-
-{"name": "month", "size":80},
-
-{"name": "weekend", "size":302},
-
-{"name": "year", "size":262},
-
-{"name": "night", "size":134},
-
-{"name": "student", "size":226},
-
-{"name": "teacher", "size":198},
-
-{"name": "college", "size":109},
-
-{"name": "midterm", "size":81},
-
-{"name": "days", "size":106},
-
-{"name": "week", "size":133},
-
-{"name": "day", "size":85},
-
-{"name": "exam", "size":64}
+{"name": "food", "size":60}
 
 ]
 },
 {
 "name": "cluster5",
 "children": [
-{"name": "belief", "size":331},
+{"name": "offer", "size":236},
 
-{"name": "disappointment", "size":88}
+{"name": "support", "size":304},
 
-]
-},
-{
-"name": "cluster6",
-"children": [
-{"name": "victim", "size":381},
+{"name": "business", "size":1426},
 
-{"name": "children", "size":242},
+{"name": "freedom", "size":134},
 
-{"name": "death", "size":88},
+{"name": "company", "size":482},
 
-{"name": "risk", "size":55},
+{"name": "service", "size":116},
 
-{"name": "crime", "size":232},
+{"name": "management", "size":287},
 
-{"name": "soldier", "size":124},
+{"name": "innovation", "size":157},
 
-{"name": "donation", "size":123},
+{"name": "website", "size":170},
 
-{"name": "violence", "size":561},
+{"name": "development", "size":1450},
 
-{"name": "bombing", "size":212},
+{"name": "services", "size":420},
 
-{"name": "disease", "size":56},
+{"name": "product", "size":72},
 
-{"name": "assault", "size":60}
+{"name": "research", "size":277},
 
-]
-},
-{
-"name": "cluster7",
-"children": [
-{"name": "daughter", "size":413},
+{"name": "impact", "size":140},
 
-{"name": "girl", "size":493},
+{"name": "youth", "size":129},
 
-{"name": "friend", "size":453},
+{"name": "commitment", "size":85},
 
-{"name": "hoe", "size":130},
+{"name": "updates", "size":78},
 
-{"name": "birthday", "size":192},
+{"name": "conference", "size":452},
 
-{"name": "sister", "size":363},
+{"name": "community", "size":146},
 
-{"name": "brother", "size":852},
+{"name": "office", "size":164},
 
-{"name": "nephew", "size":253},
+{"name": "retail", "size":114},
 
-{"name": "girlfriend", "size":232},
+{"name": "engineering", "size":90},
 
-{"name": "grandma", "size":81},
+{"name": "report", "size":79},
 
-{"name": "family", "size":57},
+{"name": "library", "size":78},
 
-{"name": "place", "size":53},
+{"name": "coverage", "size":55},
 
-{"name": "road", "size":66},
+{"name": "summit", "size":65},
 
-{"name": "car", "size":68},
+{"name": "leadership", "size":326},
 
-{"name": "grandmother", "size":97},
+{"name": "strategy", "size":350},
 
-{"name": "mom", "size":339},
+{"name": "value", "size":119},
 
-{"name": "animal", "size":205},
+{"name": "technology", "size":323},
 
-{"name": "dogs", "size":123},
+{"name": "resources", "size":372},
 
-{"name": "bomb", "size":52},
+{"name": "consulting", "size":76},
 
-{"name": "dog", "size":104},
+{"name": "details", "size":94},
 
-{"name": "horse", "size":67},
+{"name": "event", "size":151},
 
-{"name": "prick", "size":99},
+{"name": "interview", "size":133},
 
-{"name": "uncle", "size":60},
+{"name": "credit", "size":166},
 
-{"name": "kids", "size":76},
+{"name": "article", "size":65},
 
-{"name": "bed", "size":51},
+{"name": "post", "size":93},
 
-{"name": "pet", "size":89},
+{"name": "progress", "size":95},
 
-{"name": "kitten", "size":195}
+{"name": "students", "size":231},
 
-]
-},
-{
-"name": "cluster8",
-"children": [
-{"name": "service", "size":269},
+{"name": "meeting", "size":207},
 
-{"name": "funds", "size":66},
+{"name": "celebration", "size":115},
 
-{"name": "health", "size":86},
+{"name": "job", "size":83},
 
-{"name": "report", "size":93},
+{"name": "stories", "size":56},
 
-{"name": "job", "size":51},
+{"name": "success", "size":56},
 
-{"name": "article", "size":73},
+{"name": "experience", "size":155},
 
-{"name": "business", "size":80},
+{"name": "speech", "size":60},
 
-{"name": "organization", "size":72},
+{"name": "student", "size":81},
 
-{"name": "scholarship", "size":62}
+{"name": "staff", "size":52},
 
-]
-},
-{
-"name": "cluster9",
-"children": [
-{"name": "condolence", "size":52},
+{"name": "information", "size":100},
 
-{"name": "rebel", "size":172},
+{"name": "page", "size":70},
 
-{"name": "protester", "size":447},
+{"name": "careers", "size":95},
 
-{"name": "mosque", "size":119},
+{"name": "production", "size":53},
 
-{"name": "missile", "size":74},
+{"name": "search", "size":51},
 
-{"name": "atheist", "size":212}
+{"name": "creativity", "size":60},
 
-]
-},
-{
-"name": "cluster10",
-"children": [
-{"name": "game", "size":237},
+{"name": "activities", "size":110},
 
-{"name": "player", "size":140},
+{"name": "skills", "size":88},
 
-{"name": "championship", "size":102},
+{"name": "projects", "size":257},
 
-{"name": "fandom", "size":75},
+{"name": "faculty", "size":56},
 
-{"name": "account", "size":147},
-
-{"name": "follower", "size":326},
-
-{"name": "league", "size":73},
-
-{"name": "thanks", "size":257},
-
-{"name": "app", "size":95},
-
-{"name": "artist", "size":100},
-
-{"name": "photo", "size":100},
-
-{"name": "pictures", "size":85},
-
-{"name": "episode", "size":56},
-
-{"name": "movie", "size":181},
-
-{"name": "member", "size":104},
-
-{"name": "group", "size":120},
-
-{"name": "support", "size":52},
-
-{"name": "link", "size":60},
-
-{"name": "song", "size":172},
-
-{"name": "message", "size":101},
-
-{"name": "team", "size":67},
-
-{"name": "video", "size":135},
-
-{"name": "award", "size":63},
-
-{"name": "album", "size":106},
-
-{"name": "concert", "size":82},
-
-{"name": "tour", "size":69},
-
-{"name": "event", "size":84}
+{"name": "assessment", "size":52}
 
 ]
 }
